@@ -48,11 +48,11 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## Output:
-![WhatsApp Image 2024-12-27 at 14 23 41_31313113](https://github.com/user-attachments/assets/a38483f1-8264-46f9-aabc-e32341522b88)
-![WhatsApp Image 2024-12-27 at 14 23 41_71640a4d](https://github.com/user-attachments/assets/1beea438-368d-4811-9d88-011ea3327b84)
-![WhatsApp Image 2024-12-27 at 14 23 41_9c66debe](https://github.com/user-attachments/assets/8a562047-fa1e-480d-9d4c-3d27eace4e0f)
-![WhatsApp Image 2024-12-27 at 14 24 53_7eb42691](https://github.com/user-attachments/assets/1791992c-d529-4bc6-a45c-9a92c70da636)
-![WhatsApp Image 2024-12-27 at 14 27 12_4478d3ca](https://github.com/user-attachments/assets/a2416e8e-e3fd-4ad4-9501-339834fa62fd)
+![empd source 1](https://github.com/user-attachments/assets/34f65434-0463-4961-ad9f-01c66859f9c6)
+![empd source 2](https://github.com/user-attachments/assets/d39de961-5dc2-4337-ace3-b71a13438161)
+![empd source 3](https://github.com/user-attachments/assets/794afdf4-6a88-4d7d-871b-c831c596d135)
+![empd source 4](https://github.com/user-attachments/assets/00979047-5ad6-4feb-809f-d1065890f871)
+![empd source 5](https://github.com/user-attachments/assets/4e6bb91f-a8df-4caa-be6c-cf02d73f349f)
 
 ### Name: PRALAYAKAVERI RAJA
 ### Register Number:24009721
